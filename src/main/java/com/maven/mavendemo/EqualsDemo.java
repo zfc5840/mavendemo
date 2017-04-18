@@ -9,6 +9,8 @@ public class EqualsDemo {
 	}
 
 
+
+
 	public void setName(String name) {
 		this.name = name;
 	}
