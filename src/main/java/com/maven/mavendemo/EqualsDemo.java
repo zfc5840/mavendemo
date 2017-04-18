@@ -16,6 +16,7 @@ public class EqualsDemo {
 	}
 
 
+
 	public static void main(String[] args){
 		EqualsDemo equalsDemo = new EqualsDemo();
 		equalsDemo.setName("a");
