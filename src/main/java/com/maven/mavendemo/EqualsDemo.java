@@ -22,6 +22,7 @@ public class EqualsDemo {
 		equalsDemo.setName("a");
 		EqualsDemo equalsDemo2 = new EqualsDemo();
 		equalsDemo2.setName("a");
+
 		System.out.println(equalsDemo.hashCode());
 		System.out.println(equalsDemo2.hashCode());
 		String dd="a";
