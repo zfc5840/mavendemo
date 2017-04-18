@@ -26,6 +26,7 @@ public class EqualsDemo {
 		System.out.println(equalsDemo.hashCode());
 		System.out.println(equalsDemo2.hashCode());
 		String dd="a";
+
 		String ddd="a";
 		if(dd.equals(ddd)){
 			System.out.println(true);
